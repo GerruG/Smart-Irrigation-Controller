@@ -42,15 +42,15 @@ Here's a high-level diagram of the system:
 ---
 
 ## Hardware Requirements
-| Component               | Description                                      | Cost        |
-|-------------------------|--------------------------------------------------|-------------|
-| ESP32 Development Board | Wi-Fi-enabled microcontroller                    | $5 - $10    |
-| Soil Moisture Sensor    | Resistive sensor for soil moisture detection     | $2 - $5     |
-| Temperature Sensor      | DHT22 or DS18B20                                 | $3 - $5     |
-| Light Sensor            | BH1750 or LDR                                    | $2 - $5     |
-| Mini Water Pump         | Low-voltage DC pump                              | $5 - $10    |
-| Relay Module            | Controls water pump with ESP32                   | $1 - $3     |
-| Raspberry Pi            | Acts as the local server and VPN endpoint        | $35 - $75   |
+| Component               | Description                                      |
+|-------------------------|--------------------------------------------------|
+| ESP32 Development Board | Wi-Fi-enabled microcontroller                    |
+| Soil Moisture Sensor    | Resistive sensor for soil moisture detection     |
+| Temperature Sensor      | DHT22 or DS18B20                                 |
+| Light Sensor            | BH1750 or LDR                                    |
+| Mini Water Pump         | Low-voltage DC pump                              |
+| Relay Module            | Controls water pump with ESP32                   |
+| Raspberry Pi            | Acts as the local server and VPN endpoint        | 
 
 ---
 
