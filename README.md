@@ -92,8 +92,3 @@ This project uses **Netbird VPN** for secure communication between the ESP32 and
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.
-
----
-
